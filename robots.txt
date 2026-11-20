@@ -1,0 +1,6 @@
+# The site lives at /SaySmile/ (GitHub Pages). This file must sit at the root of the address,
+# because search engines only read robots.txt here.
+User-agent: *
+Allow: /
+
+Sitemap: https://saysmiledent.github.io/SaySmile/sitemap-index.xml
